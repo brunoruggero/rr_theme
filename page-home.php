@@ -59,7 +59,7 @@
 					<div class="box-single-diferenciais">
 						<img src="<?php the_field('imagem_tres'); ?>" />
 						<h3><?php the_field('titulo_tres');  ?></h3>
-						<p><?php the_field('descricao_tres');  ?></p>
+						<p><?php the_field('descricao__tres');  ?></p>
 					</div><!--box-single-diferenciais-->
 				</div><!--icons-diferenciais-->
 			</div>
@@ -69,7 +69,7 @@
 		<div class="center">
 			<div class="w50 time-descricao-2">
 				<h2><?php the_field('sobre_titulo');  ?></h2>
-				<p><?php the_field('sobre_home');  ?></p>
+				<p><?php the_field('sobre__home');  ?></p>
 			</div><!--w50-->
 			<div class="w50 img-time">
 				<img src="<?php the_field('imagem_sobre'); ?>" />
