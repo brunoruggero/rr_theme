@@ -18,6 +18,6 @@ Theme developed for Wordpress, using plugins for development:
 
 [**Bruno Ruggero**](https://github.com/brunoruggero)
 
-<!-- ## ⚓ On-line Project
+## ⚓ On-line Project
 
-[Access here](https://wordpress.rrstecnologia.com.br/) -->
+[Access here](https://wordpress.rrstecnologia.com.br/)
